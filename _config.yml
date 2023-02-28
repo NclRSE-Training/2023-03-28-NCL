@@ -52,7 +52,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "2023-03-28-NCL Software Carpentries - Version Control with Git / Introduction to MarkDown"
+title: "Software Carpentries - Introduction to Programming with Python (Gapminder Dataset)"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
