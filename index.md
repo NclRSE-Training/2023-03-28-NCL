@@ -13,7 +13,7 @@ humandate: "Mar 28, 2023"    # human-readable dates for the workshop (e.g., "Feb
 humantime: "09:00 - 17:00 UTC"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2023-03-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-03-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Dr. Jannetta Steyn", "Imre Draskovits"]
+instructor: ["Dr. Jannetta Steyn", "Imre Draskovits", "David Halliday"]
 helper: ["Stuart Lewis", "David Halliday"]
 email: ["jannetta.steyn@newcastle.ac.uk", "michelle.gilbride@newcastle.ac.uk"]
 collaborative_notes:  "https://hackmd.io/@rseteam-ncl/2023-03-28-NCL"
